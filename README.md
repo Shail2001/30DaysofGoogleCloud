@@ -32,20 +32,20 @@
     - [x] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
 - [ ] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
     - [x] Cloud IAM: Qwik Start
-    - [ ] Introduction to SQL for BigQuery and Cloud SQL
-    - [ ] Multiple VPC Networks
+    - [x] Introduction to SQL for BigQuery and Cloud SQL
+    - [x] Multiple VPC Networks
     - [x] Cloud Monitoring: Qwik Start
     - [ ] Managing Deployments Using Kubernetes Engine
     - [ ] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
 - [ ] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
     - [ ] Orchestrating the Cloud with Kubernetes
     - [ ] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
-    - [ ] Multiple VPC Networks
+    - [x] Multiple VPC Networks
     - [ ] Troubleshooting Workloads on GKE for Site Reliability Engineers
     - [ ] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
 - [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
     - [ ] User Authentication: Identity-Aware Proxy
-    - [ ] Multiple VPC Networks
+    - [x] Multiple VPC Networks
     - [ ] VPC Networks - Controlling Access
     - [ ] HTTP Load Balancer with Cloud Armor
     - [ ] Create an Internal Load Balancer
