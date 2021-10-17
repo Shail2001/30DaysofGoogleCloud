@@ -39,7 +39,7 @@
     - [x] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
 - [ ] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
     - [x] Orchestrating the Cloud with Kubernetes
-    - [ ] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
+    - [x] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
     - [x] Multiple VPC Networks
     - [ ] Troubleshooting Workloads on GKE for Site Reliability Engineers
     - [ ] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
