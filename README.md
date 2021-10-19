@@ -47,8 +47,8 @@
     - [x] User Authentication: Identity-Aware Proxy
     - [x] Multiple VPC Networks
     - [x] VPC Networks - Controlling Access
-    - [ ] HTTP Load Balancer with Cloud Armor
-    - [ ] Create an Internal Load Balancer
+    - [x] HTTP Load Balancer with Cloud Armor
+    - [x] Create an Internal Load Balancer
     - [ ] Build and Secure Networks in Google Cloud: Challenge Lab
 - [ ] Deploy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
     - [ ] Introduction to Docker
