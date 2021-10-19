@@ -43,13 +43,13 @@
     - [x] Multiple VPC Networks
     - [x] Troubleshooting Workloads on GKE for Site Reliability Engineers
     - [x] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
-- [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
+- [x] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
     - [x] User Authentication: Identity-Aware Proxy
     - [x] Multiple VPC Networks
     - [x] VPC Networks - Controlling Access
     - [x] HTTP Load Balancer with Cloud Armor
     - [x] Create an Internal Load Balancer
-    - [ ] Build and Secure Networks in Google Cloud: Challenge Lab
+    - [x] Build and Secure Networks in Google Cloud: Challenge Lab
 - [ ] Deploy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
     - [ ] Introduction to Docker
     - [x] Kubernetes Engine: Qwik Start
