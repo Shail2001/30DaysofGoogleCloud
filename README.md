@@ -68,10 +68,10 @@
     - [x] Set Up Network and HTTP Load Balancers
     - [x] Create and Manage Cloud Resources: Challenge Lab
 - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/117)
-    - [ ] AI Platform: Qwik Start
+    - [x] AI Platform: Qwik Start
     - [ ] Dataprep: Qwik Start
     - [ ] Dataflow: Qwik Start - Templates
-    - [ ] Dataproc: Qwik Start - Console
+    - [x] Dataproc: Qwik Start - Console
     - [ ] Cloud Natural Language API: Qwik Start
     - [ ] Google Cloud Speech API: Qwik Start
     - [ ] Video Intelligence: Qwik Start
