@@ -91,23 +91,23 @@
     - [x] Predict Housing Prices with Tensorflow and AI Platform
     - [x] Cloud Composer: Copying BigQuery Tables Across Different Locations
     - [x] Engineer Data in Google Cloud: Challenge Lab
-- [ ] Integrate with Machine Learning APIs: [link](https://google.qwiklabs.com/quests/136)
+- [x] Integrate with Machine Learning APIs: [link](https://google.qwiklabs.com/quests/136)
     - [x] Introduction to APIs in Google
     - [x] Extract, Analyze, and Translate Text from Images with the Cloud ML APIs
     - [x] Classify Text into Categories with the Natural Language API
     - [x] Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
     - [x] Entity and Sentiment Analysis with the Natural Language API
     - [x] Awwvision: Cloud Vision API from a Kubernetes Cluster
-    - [ ] Integrate with Machine Learning APIs: Challenge Lab
-- [ ] Explore Machine Learning Models with Explainable AI: [link](https://google.qwiklabs.com/quests/126)
+    - [x] Integrate with Machine Learning APIs: Challenge Lab
+- [x] Explore Machine Learning Models with Explainable AI: [link](https://google.qwiklabs.com/quests/126)
     - [x] What is the What-If Tool?
     - [x] Getting Started with the What-If Tool
     - [x] AI Platform: Qwik Start
-    - [ ] Using the What-If Tool with Image Recognition Models
+    - [x] Using the What-If Tool with Image Recognition Models
     - [x] Using the What-if Tool Performance & Fairness Features
-    - [ ] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
-    - [ ] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
-    - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
+    - [x] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
+    - [x] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
+    - [x] Explore Machine Learning Models with Explainable AI: Challenge Lab
 
 
 ### Best Wishes folks !! #30DaysOfGoogleCloud
